@@ -1,0 +1,32 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+myenv/
+ml-env/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Output or Model Files
+outputs/
+models/
